@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nova News</title>
+    <link>https://github.com/sandby040/N2026</link>
+    <description>Nova News Feed</description>
+    <item>
+      <title>Letztes Update: 05.04.2026</title>
+      <description>Letztes Update: 05.04.2026</description>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>nova-news-2026-04-05</guid>
+    </item>
+  </channel>
+</rss>
