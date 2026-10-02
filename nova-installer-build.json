@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "installer_id": "plugin.program.nova.installer",
+  "name": "NOVA",
+  "display_name": "Nova Update",
+  "kodi_major": 21,
+  "url": "https://github.com/sandby040/N2026/releases/latest/download/NOVA2.zip"
+}
